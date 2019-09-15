@@ -14,3 +14,6 @@ node_modules/
 .bundle/
 _site/
 vendor/
+
+# not specified gem versions
+Gemfile.lock
