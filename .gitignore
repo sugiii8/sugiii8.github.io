@@ -1,4 +1,16 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
+# not specified versions
+.gitignore
+
+# settings
+.DS_Store
+.idea/
+
+# ruby setgings
+.ruby-version
+
+# outputs
+.jekyll-cache/
+node_modules/
+.bundle/
+_site/
+vendor/
