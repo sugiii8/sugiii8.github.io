@@ -1,5 +1,6 @@
 ---
 title: "mofmof.inc LT"
+date: 2019-09-20
 categories:
   - Blog
 tags:
