@@ -1,5 +1,5 @@
 ---
-title: "mofmof.inc LT"
+title: "mofmof.inc LT 2019/09/20"
 date: 2019-09-20
 categories:
   - Blog

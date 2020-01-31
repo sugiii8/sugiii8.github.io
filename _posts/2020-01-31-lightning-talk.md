@@ -1,5 +1,5 @@
 ---
-title: "mofmof.inc LT"
+title: "mofmof.inc LT 2020/01/30"
 date: 2020-01-31
 categories:
   - Blog
